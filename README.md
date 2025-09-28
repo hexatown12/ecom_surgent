@@ -1,2 +1,2 @@
-# ecom_surgent
-this is a fully functional ecom website 
+# ecom-website
+its the clone of an ecom website using tailwind csss
